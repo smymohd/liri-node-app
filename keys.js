@@ -1,9 +1,16 @@
 exports.twitterKeys = {
-    consumer_key: '3AnFPMqMWrMT5B8Va7cZDWGXR',
-    consumer_secret: 'FGlpUOq7Oy9ojw0jlQyB8nvj0y1kznPpyukz6YZP4WlBTuW7Mb',
-    access_token_key: '828433716640886784-1oBGa1JZ1WmtZ6vCvr3REg27i9KajvL',
-    access_token_secret: '6EWm9YOPP24jNgiaGba2ztNmmYB75D0fZqSJ48FEmZUd4',
+    consumer_key: 'rUpqLk1NKLSFb6oAFvOJ0GheD',
+    consumer_secret: 'qzKCoYdmgCJdtgT5pikOjpd3CWJ7VIqmRZEgrUWNCowEhzDEnY',
+    access_token_key: '998653624669655040-ho28p1PtMCmQACHvETKeTB1kjCTrdVS',
+    access_token_secret: 'mXfiR3ibtcmJ3mkvn2yNWS9tbbHrMd9syHbdh2TqSBV9O',
   }
   
-  exports.tmdbKey = '8d5f41f6535c312ee8ea248cecd733f7';
 
+
+
+
+  //Consumer Key (API Key)	rUpqLk1NKLSFb6oAFvOJ0GheD
+// Consumer Secret (API Secret)	qzKCoYdmgCJdtgT5pikOjpd3CWJ7VIqmRZEgrUWNCowEhzDEnY
+
+//Access Token	998653624669655040-ho28p1PtMCmQACHvETKeTB1kjCTrdVS
+//Access Token Secret	mXfiR3ibtcmJ3mkvn2yNWS9tbbHrMd9syHbdh2TqSBV9O
