@@ -6,7 +6,17 @@ exports.twitterKeys = {
   }
   
 
+// Spotify
+var spotifyKeys = {
+  client_ID: '2d19b944e3d0415690dd670f7a3a14f4',
+  client_secret: '88864fe8260a47ebaf95fdaa29a8a503'
+}
+// OMDB
+var omdbKey = '40e9cece';
 
+module.exports.twitterKeys = twitterKeys;
+module.exports.spotifyKeys = spotifyKeys;
+module.exports.omdbKey = omdbKey;
 
 
   //Consumer Key (API Key)	rUpqLk1NKLSFb6oAFvOJ0GheD
